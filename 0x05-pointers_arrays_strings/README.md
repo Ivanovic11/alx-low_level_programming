@@ -1,0 +1,1 @@
+echo "pointers and arrays"
