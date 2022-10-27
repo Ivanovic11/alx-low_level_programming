@@ -1,2 +1,20 @@
-#!/bin/bash
-gcc -E $CFILE -o
+#/bin/bash
+gcc $CFILE -E -o c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
