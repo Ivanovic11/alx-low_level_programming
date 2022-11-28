@@ -1,0 +1,1 @@
+More Singly Linked Functions
