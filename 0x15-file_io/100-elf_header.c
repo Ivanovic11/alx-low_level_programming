@@ -41,7 +41,7 @@ void print_magic(unsigned char *e_ident)
 	for (x = 0; x < EI_NIDENT; x++)
 	{
 		printf("%02x", e_ident[x]);
-	
+
 		if (x == EI_NIDENT - 1)
 			printf("\n");
 		else
